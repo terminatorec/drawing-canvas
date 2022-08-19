@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/drawing-canvas/static/css/main.7fc7fdcb.css",
+    "main.js": "/drawing-canvas/static/js/main.3661ae5d.js",
+    "static/js/787.91b17e22.chunk.js": "/drawing-canvas/static/js/787.91b17e22.chunk.js",
+    "static/media/pencil.svg": "/drawing-canvas/static/media/pencil.7ab102267601d0efef788eb89e2d1bdd.svg",
+    "static/media/remove.svg": "/drawing-canvas/static/media/remove.0197ef2baf28039e04091a7af717efa3.svg",
+    "static/media/eraser.svg": "/drawing-canvas/static/media/eraser.e732feb24f787014e3adc43c66e9190e.svg",
+    "static/media/minus.svg": "/drawing-canvas/static/media/minus.e997f53d591a63ea3158469b0f1d6570.svg",
+    "static/media/plus.svg": "/drawing-canvas/static/media/plus.5dc27fb9e1f435ba9ab8c3d58d5a23cf.svg",
+    "static/media/600x800.svg": "/drawing-canvas/static/media/600x800.d93ceca0564237662e9295900e97cfc8.svg",
+    "static/media/800x600.svg": "/drawing-canvas/static/media/800x600.ab92264d2762b9c62c1f852da818e6e3.svg",
+    "static/media/square.svg": "/drawing-canvas/static/media/square.0007e72e22a4b3475c6840a1085686a3.svg",
+    "static/media/back.svg": "/drawing-canvas/static/media/back.138889f7c6be474ecd087e8ca4c357da.svg",
+    "static/media/download.svg": "/drawing-canvas/static/media/download.c2717181d3239fe1d512fb0e8dc107fd.svg",
+    "index.html": "/drawing-canvas/index.html",
+    "main.7fc7fdcb.css.map": "/drawing-canvas/static/css/main.7fc7fdcb.css.map",
+    "main.3661ae5d.js.map": "/drawing-canvas/static/js/main.3661ae5d.js.map",
+    "787.91b17e22.chunk.js.map": "/drawing-canvas/static/js/787.91b17e22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fc7fdcb.css",
+    "static/js/main.3661ae5d.js"
+  ]
+}
