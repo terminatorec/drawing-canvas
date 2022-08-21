@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/drawing-canvas/static/css/main.7fc7fdcb.css",
-    "main.js": "/drawing-canvas/static/js/main.3661ae5d.js",
+    "main.css": "/drawing-canvas/static/css/main.2e9749d2.css",
+    "main.js": "/drawing-canvas/static/js/main.ee72fef6.js",
     "static/js/787.91b17e22.chunk.js": "/drawing-canvas/static/js/787.91b17e22.chunk.js",
     "static/media/pencil.svg": "/drawing-canvas/static/media/pencil.7ab102267601d0efef788eb89e2d1bdd.svg",
     "static/media/remove.svg": "/drawing-canvas/static/media/remove.0197ef2baf28039e04091a7af717efa3.svg",
@@ -14,12 +14,12 @@
     "static/media/back.svg": "/drawing-canvas/static/media/back.138889f7c6be474ecd087e8ca4c357da.svg",
     "static/media/download.svg": "/drawing-canvas/static/media/download.c2717181d3239fe1d512fb0e8dc107fd.svg",
     "index.html": "/drawing-canvas/index.html",
-    "main.7fc7fdcb.css.map": "/drawing-canvas/static/css/main.7fc7fdcb.css.map",
-    "main.3661ae5d.js.map": "/drawing-canvas/static/js/main.3661ae5d.js.map",
+    "main.2e9749d2.css.map": "/drawing-canvas/static/css/main.2e9749d2.css.map",
+    "main.ee72fef6.js.map": "/drawing-canvas/static/js/main.ee72fef6.js.map",
     "787.91b17e22.chunk.js.map": "/drawing-canvas/static/js/787.91b17e22.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fc7fdcb.css",
-    "static/js/main.3661ae5d.js"
+    "static/css/main.2e9749d2.css",
+    "static/js/main.ee72fef6.js"
   ]
 }
